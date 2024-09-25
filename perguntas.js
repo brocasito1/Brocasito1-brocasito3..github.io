@@ -1,29 +1,29 @@
 criaCartao(
-    'Leviano',
+    'Trap',
     'Melhor letra do Leviano',
     'Uma nova AK, igual a do Osama Bin Laden Fumando maconha, mas eu tô vendendo crack'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Lyric',
+    'A melhor letra do Og?',
+    'Nego, eu sou tão foda que até minha sogra quer me dar'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Da dinheiro fazer progama?',
+    'Sim da muito...'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual o significado de How can I be homophobic? My bitch is gay',
+    'Como posso ser homofóbico? Minha cad*** é gay'
 )
 
 criaCartao(
-    'Nova Pergunta',
-    'Isso é um teste?',
-    'SIM'
+    'Trap',
+    'O q significa BGk?',
+    'Broca Gang Killers'
 )
